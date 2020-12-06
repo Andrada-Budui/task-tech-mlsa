@@ -1,0 +1,87 @@
+.jumbotron {
+    background-image: url("../img/coperta.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+
+#jumb-text {
+    padding-top: 7rem;
+}
+
+#about-text {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 5rem;
+    font-size: 20px;
+}
+
+#cont-footer {
+    display: inline-flex;
+}
+
+td {
+    padding-left: 30px;
+    font-size: small;
+    color: darkgrey;
+}
+
+td a {
+    color: darkgrey;
+}
+
+a:link, a:visited, a:hover, a:valid {
+    color: darkgrey;
+}
+
+.icon-table {
+    margin-left: auto;
+}
+
+.img-carousel {
+    height: 35vw;
+}
+
+.carousel .carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+ }
+
+html {
+    min-height: 100%;
+}
+
+footer {
+    position: static;
+    margin-top: auto;
+    background-color: #f8f9fa;
+}
+
+.type1 {
+    height: 18vw;
+}
+
+.type2 {
+    height: 30vw;
+}
+
+body {
+    background-color: #f6f8f9;
+}
+
+.custom-card {
+    width: 700px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+
+.custom-form {
+    width: 50%;
+}
+
+.reg-btn {
+    margin: auto;
+    display: block;
+}
